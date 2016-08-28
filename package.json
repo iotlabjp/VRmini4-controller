@@ -1,0 +1,25 @@
+{
+  "name": "vrmini4controller",
+  "version": "0.1.0",
+  "description": "VR mini4 controller",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotlabjp/VRmini4.git"
+  },
+  "author": "kndt84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iotlabjp/VRmini4/issues"
+  },
+  "homepage": "https://github.com/iotlabjp/VRmini4#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "restler": "^3.4.0",
+    "usb": "^1.1.2"
+  }
+}
