@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iotlabjp/VRmini4.git"
+    "url": "git+https://github.com/iotlabjp/VRmini4-controller.git"
   },
   "author": "kndt84",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iotlabjp/VRmini4/issues"
+    "url": "https://github.com/iotlabjp/VRmini4-controller/issues"
   },
-  "homepage": "https://github.com/iotlabjp/VRmini4#readme",
+  "homepage": "https://github.com/iotlabjp/VRmini4-controller#readme",
   "dependencies": {
     "async": "^2.0.1",
     "restler": "^3.4.0",
